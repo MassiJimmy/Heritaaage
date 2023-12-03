@@ -1,0 +1,13 @@
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\bin\Debug\netcoreapp3.1\Heritaaage.exe
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\bin\Debug\netcoreapp3.1\Heritaaage.deps.json
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\bin\Debug\netcoreapp3.1\Heritaaage.runtimeconfig.json
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\bin\Debug\netcoreapp3.1\Heritaaage.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\bin\Debug\netcoreapp3.1\Heritaaage.dll
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\bin\Debug\netcoreapp3.1\Heritaaage.pdb
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\obj\Debug\netcoreapp3.1\Heritaaage.csprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\obj\Debug\netcoreapp3.1\Heritaaage.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\obj\Debug\netcoreapp3.1\Heritaaage.AssemblyInfo.cs
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\obj\Debug\netcoreapp3.1\Heritaaage.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\obj\Debug\netcoreapp3.1\Heritaaage.dll
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\obj\Debug\netcoreapp3.1\Heritaaage.pdb
+C:\Users\jimmy\source\repos\Heritaaage\Heritaaage\obj\Debug\netcoreapp3.1\Heritaaage.genruntimeconfig.cache
